@@ -138,6 +138,8 @@ projects:
 
 publications:
   display: false
+
+  items:
     - title: 2. COCO Transformation Utility (CTU)
       # authors: Mohit Rajput 
       # conference: Foobar, 2019
