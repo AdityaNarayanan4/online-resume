@@ -1,0 +1,260 @@
+basic:
+  name: Aditiya Mishra
+  title: Product Manger | Planning Operation | <add more>
+  avatar:
+    display: true
+    path: profile_pic.png
+
+contact:
+  email: adi_0548@hotmail.com
+  phone: +91-99999-99999
+  wechat:
+  whatsapp: +91-99999-99999
+  telegram:
+  website:
+  medium:
+  linkedin: <add the last part after the front slash/>
+  googlescholar:
+  researchgate:
+  github: <add the last part after the front slash/>
+  gitlab:
+  bitbucket:
+  twitter:
+  stackoverflow:
+  quora:
+  goodreads:
+
+profile:
+  display: false
+  title: Profile
+  details: |
+    It's your career profile, you can wirte markdown format text.
+    + First
+    + Second
+
+    ...
+
+areas_of_interest:
+  display: true
+  title: Areas of Professional Interest
+  details: |
+    + Product Management, Planning & Development
+    + <add point here>
+
+
+experiences:
+  display: true
+  title: Experiences
+  items:
+    - company: SmallTownBrandits Media
+      tag: full-time
+      location: Bangalore
+      role1: Business Manager/Sales Head 
+      time1: April 2018 – Sept 2020
+      details: |
+        Experience in this company:
+        + **Sales territory Development**
+          - Build the sales territory from the scratch of Rs 50 Lakh revenue within 2 months.
+          - Expanded the business in East and South India with the revenue of 20M Rs within 2 quarters  
+          - Handled the profit and loss accountability of the territory with the budget of 30MN.
+        + **Account Management**
+          - Improvised and established sales, account management and operations.
+          - **Tags**: Agile Experiment Setup & Design , Object Detection, Image Standardizer, Estimator, Ensembling*
+        + **Team Management**
+          - Defective Nugget Detection and Tracking on conveyor belt with output projected on display for manual removal.
+          - **Tags**: Jetson Nano, Raspberry Pi, Ardino Uno, Edge device, Object Detection, Tracking, on-premise, real-time*
+        &nbsp;‎ &nbsp;    
+        &nbsp;‎ &nbsp;  
+
+    - company: MonkeyBox Food Tech Pvt. Ltd.
+      tag: full-time
+      location: Bangalore
+      role1: Business Unit Head- Corporate Vertical
+      time1: Apr'18-May'19
+      role2: MANAGER SALES & CUSTOMER EXPERIENCE
+      time2: Jun'17-Mar'18
+      details: |
+        Experience in this company:
+        + **ICLSSTA**
+            - Solely developed a framework, which develop and evaluate unsupervised learning solution in much depth and this from a single config file.
+            - **Tags**: *Framework, Clustering, Anomaly, Outlier, Conceptual Drift Detection, Ensembling, Support all Dimension reduction, Anomaly, and Clustering Algorithm from Sklearn, Add. Custom Algorithm* 
+        + Developing Dynamic Moving Collective Intelligence which can evolve while working across multiple sid.
+        + **Other Works**
+            - Developed Dashboard, Visualization and Analysis, spreadsheet to understand the whole behaviour of the traffic. Partially interactive visualization sheets were also developed in python.
+            - **Tags**: *SQL and Spreadsheet/Python Implementation, Visualization, Result Sharing* 
+        &nbsp;‎ &nbsp;  
+
+
+projects:
+  display: true
+  title: Projects
+  intro: |
+    This is all the projects I'm involved in.
+
+  items:
+      
+    - name: Edge Device based CV application for counting of sheets processed in a workshop
+      link: https://youtu.be/ZMsrct_866k
+      details: |
+        
+    - name: Image to Image Search - Flicker8k
+      link: https://youtu.be/zV9rrC-mLGI
+      details: |
+        &nbsp;&nbsp;&nbsp;&nbsp;Following Searchers were created  
+        &nbsp;&nbsp;&nbsp;&nbsp;  1. RCH - Regional Color Histogram  
+        &nbsp;&nbsp;&nbsp;&nbsp;  2. PTG - Pre Trained Grouping  
+        &nbsp;&nbsp;&nbsp;&nbsp;  3. TAE - Trained Auto Encoder  
+        &nbsp;&nbsp;&nbsp;&nbsp;  4. ICG - Image Caption Based Grouping (incomplete)  
+      
+    - name: Other projects
+      link: 
+      details: |
+        
+        + &nbsp;&nbsp;&nbsp;&nbsp;Flying Taxi Business Case, Udacity
+        + &nbsp;&nbsp;&nbsp;&nbsp;Build a Scalable Data Strategy, Udacity
+        + &nbsp;&nbsp;&nbsp;&nbsp;Create an Iterative Design Path, Udacity
+        
+        + &nbsp;&nbsp;&nbsp;&nbsp;Facial Keypoint Detection, Udacity
+        + &nbsp;&nbsp;&nbsp;&nbsp;Image Captioning, Udacity
+        + &nbsp;&nbsp;&nbsp;&nbsp;Landmark Detection & Tracking (SLAM), Udacity
+        
+        + &nbsp;&nbsp;&nbsp;&nbsp;Part of Speech Tagging, Udacity 
+        + &nbsp;&nbsp;&nbsp;&nbsp;Build an Adversarial Game Playing Agent - Isolation game playing agent, Udacity 
+        + &nbsp;&nbsp;&nbsp;&nbsp;Build a Forward-Planning Agent - Cargo route planning, Udacity 
+        + &nbsp;&nbsp;&nbsp;&nbsp;Sudoku solver, Udacity 
+
+        + &nbsp;&nbsp;&nbsp;&nbsp;Twitter Sentiment Analysis
+        + &nbsp;&nbsp;&nbsp;&nbsp;Identifying customer segment
+        + &nbsp;&nbsp;&nbsp;&nbsp;Black Friday: Understanding the customer purchase behaviour, Analytics Vidhya 
+        + &nbsp;&nbsp;&nbsp;&nbsp;Estimation of the audience score of movies, Coursera 
+        + &nbsp;&nbsp;&nbsp;&nbsp;Predicting the way in which exercise were done, Coursera 
+        + &nbsp;&nbsp;&nbsp;&nbsp;Forecasting bike rental demand in the Capital Bike Sharing Program, Kaggle 
+        + &nbsp;&nbsp;&nbsp;&nbsp;Predicting Survival on the Titanic, Kaggle
+
+#     - name: Foo
+#       link: https://www.google.com
+#       details: |
+#         Project Foo's detail, you can write markdown format text.
+
+publications:
+  display: false
+    - title: 2. COCO Transformation Utility (CTU)
+      # authors: Mohit Rajput 
+      # conference: Foobar, 2019
+      # link:
+      details: |
+        &nbsp;‎&nbsp;‎Developed as a part of ML-Labs@Cargill. Awaiting for approval to be released as open source.
+        + Enable modifying your COCO annotations similair to the transformation applied to the images.
+        + Provides the capabilty to have augmented images and annoations.
+        + Ability to plot multiple annoations on images.
+        &nbsp;‎ &nbsp;  
+    # - title: The Art of Bar
+    #   authors: Foo Bar
+    #   conference: Foobar, 2019
+    #   link:
+
+patents:
+  display: False
+  title: Patent & Research Paper
+  details: |
+    + < add details here>  
+    
+skills:
+  display: true
+  title: Tools & Skills
+  details: |
+    + **PHILANTHROPIC ACTIVITIES**
+        - Actively participated in a various N.G.O. development program & CSR activities.
+    + **Hardware**
+        - Jetson Nano, Raspberry Pi, Arduino Uno, IP Cameras, Sensors, basic electrical devices and circuits
+
+#   levels:
+#     - name: Skill A
+#       level: 90
+#     - name: Skill B
+#       level: 80
+#     - name: Skill C
+#       level: 70
+
+education:
+  display: true
+  title: Education
+  items:
+    - university: Bangalore University
+      time: 2012 - 2017
+      major: Marketing and Finance
+      degree: Master of Business Administration (M.B.A.)
+      details: |
+        Credit Courses: 
+            + Economics
+            + Corporate Social Responsibility
+
+    - university: Udacity - Product Manager
+      time: 2021
+      major: 
+      degree: Nano Degrees
+      details: <add url>
+
+
+certificates:
+  display: true
+  title: Certificates
+  items:
+    - name: "Deep Learning and NLP A-Z"
+      authority: Udemy
+      time: 2020
+      link: https://www.google.com
+      details: |
+    - name: "Learn How To Build An AI"
+      authority: Udemy
+      time: 2020
+      link: https://www.google.com
+      details: |
+
+
+#     - name: Course Foo
+#       authority: Coursera
+#       time: 2020
+#       link:
+#       details: |
+#         It's my Course Foo certificate by coursera.
+
+languages:
+  display: true
+  title: Languages
+  items:
+    - idiom: Hindi
+      level: Native
+    - idiom: English
+      level: Professional
+
+interests:
+  display: true
+  title: Interests
+  items:
+    - item: Reading
+      link:
+    - item: Cooking
+      link:
+    - item: PC Gaming
+      link:
+    - item: Bike Trips
+      link:
+    - item: Travelling
+      link:
+
+evaluation:
+  display: false
+  title: Self-evaluation
+  details: |
+    Here is my self evaluation.
+    + First
+    + Second
+
+    ...
+
+footer:
+  display: true
+
+close: >
+  Sorry, my resume has been hidden.
